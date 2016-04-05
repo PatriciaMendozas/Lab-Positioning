@@ -14,7 +14,7 @@ div{
 	top: 0;*/
 }
 .cuadrado2{
-	position: relative;
+	position: absolute;
 	background: #44accf;
 	left: 200px;
 	/*right: 0;
