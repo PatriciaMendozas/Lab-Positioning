@@ -1,0 +1,18 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+div{
+	width: 200px;
+	height: 200px;
+	/*position: static;*/
+}
+.cuadrado1{
+	background: #ee3e64;
+}
+.cuadrado2{
+	background: #44accf;
+}
+.cuadrado3{
+	background: green;
+}
